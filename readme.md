@@ -3,7 +3,7 @@ Ensure you have Terraform installed.
 AWS CLI configured with appropriate credentials.
 Sufficient permissions in your AWS account.
 
-CLI ---commands
+CLI ------commands
 
 terraform init
 terraform validate
